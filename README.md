@@ -8,7 +8,7 @@
 - [ ] A program that adds effects to photo
 - [ ] A program to open webcam and take photo
 
-*--will add more---*
+*-- will add more --*
 
 ---
 
