@@ -31,7 +31,7 @@
  
 ---
  
-## Compiling in a linux environment
+## Compiling in a linux environment : 
 
 ### I use arch so i will be listing Arch-distros only :
 
